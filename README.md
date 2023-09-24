@@ -1,28 +1,28 @@
 # SuperStoreAnalysis
 
 
-# Introduction
+## **Introduction**
 
 
-# Problem Statement
+## **Problem Statement**
 
 
-# Skills Demonstrated
+## **Skills Demonstrated**
 
-# Data Sourcing 
-
-
-# Data Transformation
+## **Data Sourcing** 
 
 
-
-# Data Modelling
+## **Data Transformation**
 
 
 
-# Analysis & Visualization 
+## **Data Modelling**
 
 
 
-# Conclusion & Recommendation
+## **Analysis & Visualization** 
+
+
+
+## **Conclusion & Recommendation**
 
