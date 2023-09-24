@@ -1,2 +1,28 @@
 # SuperStoreAnalysis
-This project is about the sales of electronics in different regions and using insights from the visuals to drive informed decision.
+
+
+#Introduction
+
+
+#Probelem Statement
+
+
+#Skills Demonstrated
+
+#Data Sourcing 
+
+
+#Data Transformation
+
+
+
+#Data Modelling
+
+
+
+#Analysis & Visualization 
+
+
+
+#Conclusion & Recommendation
+
